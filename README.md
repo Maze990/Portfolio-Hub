@@ -11,7 +11,7 @@ This repository is the landing page for my work across web development, full‑s
 ## Projects
 - **Full‑Stack Projects** — Brief summary of each project idea and main features.  
   **Tech:** HTML; CSS; JavaScript; Node.js / Java / Python; Database.  
-  **Link:** [Full‑Stack Projects](./full-stack-repo) · Demo: `https://example.com`
+  **Link:** [Full‑Stack Projects](./full-stack-repo) 
 
 - **JavaFX Projects** — Desktop apps and utilities with screenshots and run instructions.  
   **Tech:** Java; JavaFX.  
