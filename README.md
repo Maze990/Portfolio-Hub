@@ -39,5 +39,5 @@ Planned additions include converting selected projects into full‑stack apps wi
 ---
 
 ## Contact & License
-**Contact:** your.email@example.com · linkedin.com/in/yourprofile  
+**Contact:** maazmohammad559@gmail.com · linkedin.com/in/yourprofile  
 **License:** Individual project repositories include their own license files. If no license is present, assume code is for review and learning only.
