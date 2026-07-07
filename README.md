@@ -11,15 +11,15 @@ This repository is the landing page for my work across web development, full‑s
 ## Projects
 - **Full‑Stack Projects** — Brief summary of each project idea and main features.  
   **Tech:** HTML; CSS; JavaScript; Node.js / Java / Python; Database.  
-  **Link:** [Full‑Stack Projects](./full-stack-repo) 
+  **Link:** https://github.com/Maze990/Full-Stack-Projects
 
 - **JavaFX Projects** — Desktop apps and utilities with screenshots and run instructions.  
   **Tech:** Java; JavaFX.  
-  **Link:** [JavaFX Projects](./javafx-repo)
+  **Link:** https://github.com/Maze990/JavaFX-Projects
 
 - **Sandbox & Helpers** — Small experiments, snippets, and utilities for quick proofs of concept.  
   **Tech:** Mixed.  
-  **Link:** [Sandbox](./sandbox-repo)
+  **Link:** https://github.com/Maze990/Sandbox-Helpers
 
 > Click a project name to open its repository README for full details, setup, and demos.
 
